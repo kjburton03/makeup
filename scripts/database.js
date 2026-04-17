@@ -140,7 +140,7 @@ export const database = {
         },
 
     ],
-    tool: [
+    friend: [
         {
             name: "face roller thingy",
             description: "guava stick thingy",
