@@ -13,4 +13,9 @@ export const generateFaceHTML = () => {
         `;
     }
     return faceHTML;
+};
+
+export const getPriceyFace = () => {
+    const priceyFace = []
+    
 }
